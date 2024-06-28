@@ -3,6 +3,7 @@
 
 ### Sumário de Implementações:
 - [BubbleSort](./src/BubbleSort.java)
+- [InsertionSort](./src/InsertionSort.java)
 - [SelectionSort](./src/SelectionSort.java)
 - [QuickSort](./src/QuickSort.java)
 - [MergeSort](./src/MergeSort.java)
