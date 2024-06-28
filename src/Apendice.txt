@@ -1,0 +1,18 @@
+Funcionamento dos algorítmos:
+
+- Bubble Sort: Troca elementos adjacentes se eles estiverem fora de ordem.
+
+- Insertion Sort: Insere cada elemento na posição correta, comparando-o sequencialmente com os elementos à esquerda.
+
+- Selection Sort: Seleciona o menor elemento restante e o coloca na posição correta.
+
+- Heap Sort: Constrói uma estrutura de dados de heap e rearranja o array de acordo com as propriedades do heap.
+
+- Shell Sort: Divide o array em sublistas menores e aplica o Insertion Sort em cada uma.
+
+- Merge Sort: Divide recursivamente o array pela metade, ordena cada metade e depois mescla as duas metades ordenadas.
+
+- Quick Sort: Seleciona um elemento como pivô e rearranja o array de forma que os elementos menores que o pivô
+estejam à esquerda e os maiores à direita.
+
+
