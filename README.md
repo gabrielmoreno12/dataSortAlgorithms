@@ -9,6 +9,7 @@
 - [MergeSort](./src/MergeSort.java)
 - [HeapSort](./src/HeapSort.java)
 - [ShellSort](./src/ShellSort.java)
+- [Testes](.src/Main.java)
 #
 Estratégia utilizada para erro de "StackOverFlow" para ordenação de arrays muito grandes utilizando QuickSort:
 
